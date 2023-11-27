@@ -17,7 +17,7 @@ const Brand = () => (
       <img src={dropbox}  alt='drop'/>
     </div>
     <div>
-      <img src={shopify} alt='shop' />
+      <img src={shopify} al />
     </div>
   </div>
 );
