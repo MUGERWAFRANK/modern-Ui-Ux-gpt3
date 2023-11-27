@@ -1,0 +1,16 @@
+.gpt3--navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 6rem;
+    height: 20px;
+}
+.gpt3__navbar-links{
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.gpt3__navbar-links-logo img{
+   margin-right: ; 
+}
